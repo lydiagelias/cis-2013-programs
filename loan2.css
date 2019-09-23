@@ -1,0 +1,44 @@
+body {
+    font-family: Palentino, Palentino, Palentino;
+    background: #00FFFF;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #FF00FF;
+    border: 1px solid #000000;
+}
+
+h1 {
+	text-align: left;
+}
+
+p {
+	color: blue;
+	font-weight: bold;
+	text-align: left;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: left;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 75px;
+}
+
+#futureValue {
+    color: #00FFFF;
+}
+
+br {
+    clear: left;
+}
